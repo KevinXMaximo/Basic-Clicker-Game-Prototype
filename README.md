@@ -40,6 +40,13 @@ LO4 - index.dart contains the comment which reasons this
 
 LO5 - main.dart containt the comment which reasons this
 
+## Requirements
+
+Proof of best practice:
+
+![noErrors](https://user-images.githubusercontent.com/62119614/146287290-847deb9f-4885-413c-8af4-442969de8314.PNG)
+
+There were many errors which the IDE and lint found that I had to fix. One of the most common errors was the absence of "const" before constructors, as according to dart documentation it is best to make constructors constant whenever possible. 
 
 ## Demonstration
 
