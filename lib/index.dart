@@ -1,4 +1,3 @@
-import 'main.dart';
 export 'main.dart';
 
 /* Requirement LO4 : This program was created with an object oriented approach,
