@@ -23,13 +23,21 @@ This project was made for a Programming II Class (COP 3003) admnistered by Prof.
 ## Requirements
 
 LO1 - index.dart file contains multiple classes
+
 LO1a - index.dart serves as a header file containing classes which is imported to main
+
 LO1b - index.dart contains the definition of the overloaded constructor, while main.dart contains the overloading
+
 LO1c - index.dart contains classes that use initialization lists
+
 LO2 - index.dart contains classes which utilize inheritance
+
 LO2a - index.dart contains the comment which reasons this
+
 LO3 - main.dart includes the comment that explains this
+
 LO4 - index.dart contains the comment which reasons this
+
 LO5 - main.dart containt the comment which reasons this
 
 
