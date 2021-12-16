@@ -35,7 +35,7 @@ LO5 - main.dart containt the comment which reasons this
 
 ## Demonstration
 
-![incrementingApples](https://user-images.githubusercontent.com/62119614/143375572-81195d00-f2e1-4763-9298-dae5dc954985.gif)
+![appWorking](https://user-images.githubusercontent.com/62119614/146286543-f27c72a5-69c0-4c3f-bc69-690214d96a44.gif)
 
 ## Diagrams
 
