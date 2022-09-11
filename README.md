@@ -1,4 +1,4 @@
-# COP_3003_Integration_Project
+# Basic Clicker Game Prototype (COP 3003 Integration Project)
 
 This project is a mobile app developed using Flutter, it consists of a clicker/idle styled game demo meant to serve as a demonstration of the programming concepts I have learned.
 
