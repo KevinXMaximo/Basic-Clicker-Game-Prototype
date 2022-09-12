@@ -103,7 +103,7 @@ Tutorial 1:
 
 ![tutorial1Actual](https://user-images.githubusercontent.com/62119614/143375001-6d24b689-811d-48e5-8e81-7e5500464a18.PNG)
 
-The app begins by only showing the total fruit counter, the apple counter and the "+1 apple" button, along with tutorial 1. The first tutorial explains to the player that they can make fruit by pressing the button, and prompts them to do so. This is meant to demonstrate the most basic aspect of a clicker game: you can click to increment a counter. Once the user has clicked the button 6 times, the game assumes they understand what the tutorial has to teach and moves on.
+The app begins by only showing the total fruit counter, the apple counter, and the "+1 apple" button, along with tutorial 1. The first tutorial explains to the player that they can make fruit by pressing the button, and prompts them to do so. This is meant to demonstrate the most basic aspect of a clicker game: you can click to increment a counter. Once the user has clicked the button 6 times, the game assumes they understand what the tutorial has to teach and moves on.
 
 Tutorial 2:
 
